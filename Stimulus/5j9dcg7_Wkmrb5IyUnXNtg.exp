@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StimulusTransportBase xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Tobii.Studio.Design.Transport">
+  <Key>725d3fe6-ff0e-495a-ab6f-92325275cdb6</Key>
+  <Value i:type="ScreenRecordingStimulusTransport">
+    <Channel>ScreenRecordingChannel</Channel>
+    <Id>63a3ac53-5bc0-4e41-8ad7-4cf8846d5b10</Id>
+    <Name>Screen Recording</Name>
+    <SamplingIntervalMilliseconds>40</SamplingIntervalMilliseconds>
+    <ScreenCaptureQuality>High</ScreenCaptureQuality>
+  </Value>
+</StimulusTransportBase>

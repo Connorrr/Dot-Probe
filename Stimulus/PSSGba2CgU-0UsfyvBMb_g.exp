@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StimulusTransportBase xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Tobii.Studio.Design.Transport">
+  <Key>6d86243d-82ad-4f81-b452-c7f2bc131bfe</Key>
+  <Value i:type="VisualStimulusTransport">
+    <Channel>CompositeChannel</Channel>
+    <Id>364d651d-8199-4374-bc54-e8f11d1b81ea</Id>
+    <Name>1FHC</Name>
+    <MediaId>197f4ee2-e8d8-4b8d-8ad9-ca7eaa62b20d</MediaId>
+    <StartPosition>0</StartPosition>
+    <BackgroundColor xmlns:d2p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+      <d2p1:A>255</d2p1:A>
+      <d2p1:B>0</d2p1:B>
+      <d2p1:G>0</d2p1:G>
+      <d2p1:R>0</d2p1:R>
+    </BackgroundColor>
+    <HorizontalAlignment>Left</HorizontalAlignment>
+    <IsMouseCursorVisible>false</IsMouseCursorVisible>
+    <StimulusSize xmlns:d2p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+      <d2p1:Height>626</d2p1:Height>
+      <d2p1:Width>506</d2p1:Width>
+    </StimulusSize>
+    <Stretch>NativeSize</Stretch>
+    <VerticalAlignment>Center</VerticalAlignment>
+  </Value>
+</StimulusTransportBase>

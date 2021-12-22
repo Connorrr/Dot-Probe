@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StimulusTransportBase xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Tobii.Studio.Design.Transport">
+  <Key>1d887168-cde9-4721-b1cb-b2d7e77f17a3</Key>
+  <Value i:type="EyetrackerCalibrationStimulusTransport">
+    <Channel>WpfChannel</Channel>
+    <Id>c2a64d3f-ae19-41a4-9862-3b00ba9e313f</Id>
+    <Name>Eyetracker Calibration</Name>
+    <BackgroundColor xmlns:d2p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+      <d2p1:A>255</d2p1:A>
+      <d2p1:B>128</d2p1:B>
+      <d2p1:G>128</d2p1:G>
+      <d2p1:R>128</d2p1:R>
+    </BackgroundColor>
+    <CalibrationTarget>Point</CalibrationTarget>
+    <CalibrationType>Timed</CalibrationType>
+    <NumberOfPoints>5</NumberOfPoints>
+    <PointColor xmlns:d2p1="http://schemas.datacontract.org/2004/07/Tobii.ApplicationFoundation">
+      <d2p1:A>255</d2p1:A>
+      <d2p1:B>255</d2p1:B>
+      <d2p1:G>255</d2p1:G>
+      <d2p1:R>255</d2p1:R>
+    </PointColor>
+    <PointVideoMediaId>00000000-0000-0000-0000-000000000000</PointVideoMediaId>
+    <RandomizePointOrder>true</RandomizePointOrder>
+  </Value>
+</StimulusTransportBase>
