@@ -1,5 +1,7 @@
 # TobiiEyetrackerAnalysis
-Python program that takes the output of an Open Sesame Project using the tobii eyetracking plugin to refine relevant data.  The example OpenSesamy project can be used to generate raw data that will be interpreted by the Analysis software.
+This program was made to work in parallel with the OpenSesame Tobii plugin.  The included OpenSesame project outputs raw gaze point data and the Analysis software takes this and uses a simple GUI to define Areas of Intrest and fixation definitions.  The output is a significantly refined data file.
+
+I used Atom to build and run the Analysis project.  The root project file is AutoDrawTracker.py.
 
 ![image3](https://user-images.githubusercontent.com/7636403/147014640-b31ea7c9-bf38-43f6-b5ad-84d92b00a138.gif)
 
